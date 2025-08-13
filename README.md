@@ -1,8 +1,5 @@
 # Mein Entwickler-Schlachtplan ⚔️
 
-<p align="center">
-  <img src="URL_ZU_EINEM_PASSENDEN_BILD_ODER_BANNER" width="600px" alt="Mein Banner"/>
-</p>
 
 Hallo! 👋 Ich bin [Dein Name] und dies ist mein öffentliches Logbuch und mein Schlachtplan für meine Reise als Softwareentwickler. Mein Ziel ist es, nicht nur Code zu schreiben, sondern durchdachte, effiziente und wartbare Lösungen zu schaffen.
 
