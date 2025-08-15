@@ -1,7 +1,9 @@
 # Na du?
 
 ---
-Ein Schelm bleibt selten schlicht, er biegt sich die Welt ins Licht.
+
+### Ein Schelm bleibt selten schlicht, er biegt sich die Welt ins Licht.
+
 ---
 
 Es war einmal ein Kind, das im Dorf nur als das "Querulantenkind" bekannt war. Niemand wusste seinen echten Namen, und eigentlich wollte auch niemand ihn wissen. Das Querulantenkind hatte eine besondere Begabung: Es konnte jeden Erwachsenen zur Weißglut treiben. Mit seinen frechen Sprüchen, hinterlistigen Plänen und einem Lächeln, das Unheil versprach, brachte es die Dorfbewohner regelmäßig an den Rand des Wahnsinns.
@@ -31,5 +33,3 @@ Ich bin immer offen für Austausch und lerne gerne von anderen.
 
 -   **Reddit:** [u/TrutzTrankolutsch]
 -   **Telegram:** [@trutzvontranklolutsch]
-  
--   **Diskussion:** Fühl dich frei, ein "Issue" in diesem Repository zu öffnen, um über Lernstrategien, Software & Hardware, oder Technologien zu diskutieren!
