@@ -24,12 +24,4 @@ Das Querulantenkind spuckte den Kuchen aus und schrie: "Was ist das? Warum ist d
 
 Von diesem Tag an wurde das Querulantenkind etwas ruhiger. Es spielte immer noch seine Streiche, aber es versuchte, sie auf eine Weise einzusetzen, die allen Spaß machte – und nicht nur ihm allein. Und obwohl es Pferde nach wie vor scheußlich fand, lernte es, dass es manchmal besser war, einfach nur zu lachen, anstatt ständig Unheil zu stiften.
 
-
 ---
-
-### Kontakt
-
-Ich bin immer offen für Austausch und lerne gerne von anderen.
-
--   **Reddit:** [u/TrutzTrankolutsch]
--   **Telegram:** [@trutzvontranklolutsch]
