@@ -71,15 +71,15 @@
 </div>
 
 ```yaml
-name: "DEIN NAME HIER"
-location: "DEINE STADT, LAND"
-role: "DEINE AKTUELLE ROLLE (z.B. Student, Junior DevOps, etc.)"
+name: "Luca"
+location: "Hamburg, Deutschland"
+role: "Student"
 current_focus: 
   - "Linux System Administration"
   - "Programmierung & Entwicklung"
   - "Automatisierung & Scripting"
   
-journey_started: "DATUM (z.B. Januar 2024)"
+journey_started: "August 2025"
 
 motivation: |
   DEINE PERSÖNLICHE MOTIVATION HIER
