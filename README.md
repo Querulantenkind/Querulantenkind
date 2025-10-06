@@ -82,35 +82,28 @@ current_focus:
 journey_started: "August 2025"
 
 motivation: |
-  DEINE PERSÖNLICHE MOTIVATION HIER
-  Warum lernst du diese Themen?
-  Was sind deine Ziele?
-  
-fun_fact: "ETWAS INTERESSANTES ÜBER DICH"
+  Hier versuche ich meinen Drang nach neuem Wissen zu stillen & zu dokumentieren.
 
 current_learning:
-  - "AKTUELLES PROJEKT 1"
-  - "AKTUELLES PROJEKT 2"
-  - "AKTUELLES PROJEKT 3"
-
-dream_job: "DEIN TRAUMBERUF"
+  - "Python - Die Grundlagen"
+  - "Das Arbeiten mit Git"
+  - "Dateienmanagement in Linux & über das Terminal"
 
 contact:
-  email: "DEINE@EMAIL.com"
-  linkedin: "DEIN-PROFIL"
-  github: "DEIN-USERNAME"
+  email: "github@pixelpathetisch.org"
+  github: "Querulantenkind"
 ```
 
 <div align="center">
 
 ### 🌟 **"Mein Motto"** 🌟
-> DEIN PERSÖNLICHES MOTTO ODER LIEBLINGSZITAT HIER
+> Wenn wir die Ziele wollen, wollen wir auch die Mittel.
 
 ---
 
 ### 🎮 **Hobbies & Interessen**
 
-`💻 Coding` • `🐧 Linux Tinkering` • `📚 Tech Books` • `🎵 DEIN-HOBBY` • `🎮 DEIN-HOBBY` • `🏃 DEIN-HOBBY`
+`💻 Coding` • `🐧 Linux-Systemadministration` • `🎮 Anno` • `🏃 Laufen & Kraftsport`
 
 </div>
 
