@@ -1,159 +1,173 @@
-# 🚀 Querulantenkind - Developer & Linux Enthusiast
+# 🚀 Querulantenkind
 
 ```
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║     💻 Lernender Entwickler & Linux-Admin             ║
-║     🐧 Linux-System & DevOps                           ║
-║     📚 Clean Code & Best Practices                     ║
-║     🎯 Python | Bash | Java | Linux                   ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║           💻  Developer & Linux Administrator                ║
+║           🐧  Clean Code | Security | Best Practices         ║
+║           🎯  Building robust, maintainable solutions        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-## 📋 Über mich
-
-Entwickler & Linux-Administrator in Ausbildung mit Fokus auf **sauberen Code**, **Best Practices**, **sichere System-Administration** und **DevOps-Prinzipien**.
+**Welcome!** This is a space for learning, experimentation, and building solid software foundations.
 
 ---
 
-## 🛠️ Tech-Stack
+## 🎯 About This Repository
 
-```
-┌──────────────┬──────────────┬──────────────┐
-│  Entwicklung │  Linux/DevOps│  Tools       │
-├──────────────┼──────────────┼──────────────┤
-│ 🐍 Python    │ 🐧 Linux     │ Git/GitHub   │
-│ 🔨 Bash      │ 🔧 Sysadmin  │ Docker       │
-│ ☕ Java      │ 📡 Networking│ SSH/VPN      │
-│ 📝 Markdown  │ 🔐 Security  │ CI/CD        │
-└──────────────┴──────────────┴──────────────┘
-```
+A personal learning hub dedicated to **clean code**, **secure systems**, and **professional development practices**.
+
+I focus on:
+- ✨ Writing readable, maintainable code
+- 🔒 Security-first mindset
+- 🐧 Linux systems & administration
+- 🚀 DevOps fundamentals
+- 📚 Best practices & design patterns
 
 ---
 
-## ✨ Entwicklungs-Prinzipien
+## 🛠️ Tech Stack
 
-| Prinzip | Fokus |
-|---------|-------|
-| 🎯 **KISS** | Einfachheit vor Cleverness |
-| 🔄 **DRY** | Keine Wiederholungen |
-| ⚡ **YAGNI** | Nur das Nötigste |
-| 📖 **Lesbarkeit** | Code für Menschen |
-| 🔒 **Security** | By Design |
-| ✅ **Input-Validierung** | Defensive Programmierung |
-
----
-
-## 🐧 Linux-Fokus
-
-```
-┌────────────────────────────────────────┐
-│  Linux Administration & DevOps         │
-├────────────────────────────────────────┤
-│ ✓ System-Administration (User, Groups) │
-│ ✓ Datei-Systeme & Permissions         │
-│ ✓ Prozess-Management & Monitoring     │
-│ ✓ Netzwerk-Konfiguration & Tools      │
-│ ✓ SSH & Sicherheit                    │
-│ ✓ Shell-Scripting & Automatisierung   │
-│ ✓ Log-Management & Troubleshooting    │
-│ ✓ Containerization (Docker Basics)    │
-│ ✓ Security Hardening                  │
-│ ✓ Performance-Tuning                  │
-└────────────────────────────────────────┘
-```
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>🔧 Languages</b><br/>
+      Python • Bash<br/>
+      Java • Markdown
+    </td>
+    <td align="center" width="33%">
+      <b>🐧 Systems</b><br/>
+      Linux Administration<br/>
+      Shell Scripting<br/>
+      SSH & Networking
+    </td>
+    <td align="center" width="33%">
+      <b>📦 Tools</b><br/>
+      Git • Docker<br/>
+      CI/CD • DevOps<br/>
+      Security Tools
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📦 Projekt-Struktur
+## 💡 Development Principles
+
+| Principle | Focus |
+|-----------|-------|
+| 🎯 **KISS** | Simplicity over cleverness |
+| 🔄 **DRY** | Don't repeat yourself |
+| ⚡ **YAGNI** | You aren't gonna need it |
+| 📖 **Readability** | Code for humans first |
+| 🔒 **Security** | By design, not by accident |
+| ✅ **Validation** | Defensive programming |
+
+---
+
+## 📂 Repository Structure
 
 ```
 Querulantenkind/
-├── 📂 python/          (Python-Projekte & Skripte)
-├── 📂 bash/            (Bash-Skripte & Shell-Tools)
-├── 📂 java/            (Java-Programme)
-├── 📂 linux/           (Linux-Admin Skripte & Tipps)
-│   ├── system-admin/   (User, Gruppen, Permissions)
-│   ├── networking/     (Netzwerk-Konfiguration)
-│   ├── security/       (Hardening & SSH)
-│   └── monitoring/     (Log-Analyse & System-Health)
-├── 📂 devops/          (Container, CI/CD Basis)
-└── 📄 README.md        (Du bist hier)
+│
+├── 🐍 python/              Python scripts & projects
+├── 🔨 bash/                Bash utilities & automation
+├── ☕ java/                Java programs & exercises
+│
+├── 🐧 linux/               Linux administration
+│   ├── system-admin/       Users, groups, permissions
+│   ├── networking/         Network configuration
+│   ├── security/           Hardening & SSH setup
+│   └── monitoring/         Logs & system health
+│
+└── 🚀 devops/              DevOps & containerization
 ```
 
 ---
 
-## 🎓 Lern-Fokus
+## 🎓 Learning Focus Areas
 
-### Entwicklung:
-- ✅ PEP 8 & Type Hints (Python)
-- ✅ Error Handling & Input-Validierung
-- ✅ Design Patterns & SOLID
-- ✅ Aussagekräftige Dokumentation
-- ✅ Defensive Programmierung
+### 💻 Software Development
+- ✅ PEP 8 standards & Type Hints (Python)
+- ✅ Exception handling & input validation
+- ✅ Design patterns & SOLID principles
+- ✅ Code documentation & comments
+- ✅ Defensive programming techniques
 
-### Linux-Administration:
-- ✅ Benutzer- & Rechte-Management
-- ✅ Dateisystem & Permissions verstehen
-- ✅ Sicher SSH konfigurieren
-- ✅ Log-Analyse & Troubleshooting
-- ✅ Automatisierung mit Bash
-- ✅ Sicherheit & Hardening
+### 🐧 Linux Administration
+- ✅ User & permission management
+- ✅ File systems & ownership
+- ✅ SSH configuration & key management
+- ✅ Log analysis & troubleshooting
+- ✅ Shell scripting automation
+- ✅ Security hardening practices
 
 ---
 
-## 📋 Code-Stil Anforderungen
+## 📝 Code Style Guide
 
-### Python:
+### Python
 ```python
-def example_function(name: str) -> str:
+def process_data(input_value: str) -> dict:
     """
-    Kurzbeschreibung.
-    
-    Args:
-        name: Beschreibung des Parameters
-    
-    Returns:
-        Rückgabewert
-    """
-    # Aussagekräftige Variablennamen
-    # Type Hints verwenden
-    # f-strings für String-Formatierung
-    return f"Hello {name}"
+    Process and validate input data.
 
-if __name__ == "__main__":
-    example_function("World")
+    Args:
+        input_value: The value to process
+
+    Returns:
+        A dictionary with processed data
+    """
+    if not input_value:
+        raise ValueError("Input cannot be empty")
+
+    return {"status": "success", "data": input_value}
 ```
 
-### Bash:
+### Bash
 ```bash
 #!/bin/bash
-# Shebang + Fehlerbehandlung
-set -euo pipefail
+set -euo pipefail  # Exit on error, undefined vars, pipe failures
 
-# Funktionen mit beschreibenden Namen
 function validate_input() {
-    # "${VARIABLE}" für Sicherheit
-    local INPUT="${1}"
-    [[ -z "${INPUT}" ]] && echo "Error" && return 1
+    local input="${1:-}"
+    [[ -z "${input}" ]] && echo "Error: empty input" && return 1
+    echo "Input valid: ${input}"
 }
 
 validate_input "test"
 ```
 
-### Java:
+### Java
 ```java
 /**
- * Javadoc für alle public Methoden
+ * Processes data with proper error handling.
+ * @param data The input data to process
+ * @return The processed result
  */
-public class Example {
-    private final String name;  // final für Immutability
-    
-    public Example(String name) {
-        this.name = name;
+public class DataProcessor {
+    private final String data;
+
+    public DataProcessor(String data) {
+        this.data = data;
     }
 }
+```
+
+---
+
+## 🔐 Security Principles
+
+Every project follows these security guidelines:
+
+```
+✓ No hardcoded secrets or credentials
+✓ Environment variables for sensitive data
+✓ Input validation on all user input
+✓ SSH keys instead of passwords
+✓ Principle of least privilege
+✓ Regular security audits
 ```
 
 ---
@@ -161,74 +175,64 @@ public class Example {
 ## 🚀 Quick Start
 
 ```bash
-# Repository klonen
+# Clone the repository
 git clone https://github.com/Querulantenkind/Querulantenkind.git
 cd Querulantenkind
 
-# Python-Projekt ausführen
+# Run Python scripts
 python3 python/main.py
 
-# Bash-Skript ausführen
+# Execute bash utilities
 bash bash/script.sh
 
-# Linux-Admin Skripte
+# Linux administration examples
 bash linux/system-admin/user-management.sh
 
-# Java-Programm kompilieren & ausführen
+# Compile and run Java
 javac java/Example.java && java Example
 ```
 
 ---
 
-## 🔐 Security First
+## 📊 Growth Path
 
 ```
-┌────────────────────────────────────────┐
-│  Sicherheits-Checkliste                │
-├────────────────────────────────────────┤
-│ ✓ Keine hardcodierten Secrets         │
-│ ✓ Environment-Variablen für sensitive │
-│ ✓ Input-Validierung immer             │
-│ ✓ SSH-Keys statt Passwörter           │
-│ ✓ Minimal Permissions (Principle)     │
-│ ✓ Regelmäßige Log-Überprüfung         │
-└────────────────────────────────────────┘
-```
+🌱 Phase 1: Fundamentals
+├─ Programming basics & syntax
+├─ Linux command line
+└─ Scripting foundations
 
----
+📈 Phase 2: Mastery
+├─ Advanced patterns & OOP
+├─ System administration
+└─ Professional tooling
 
-## 💡 Motto
-
-> "Der beste Code ist nicht der schnellste, sondern der **verständlichste** und **sicherste**."
-
----
-
-## 📊 Learning Path
-
-```
-Phase 1: Fundament
-├─ Python Basics & PEP 8
-├─ Linux Basics & CLI
-└─ Bash Fundamentals
-
-Phase 2: Vertiefung
-├─ OOP & Design Patterns
-├─ Linux-Administration
-└─ Shell-Scripting
-
-Phase 3: Integration
-├─ DevOps Konzepte
-├─ Security Hardening
-└─ Automatisierung
+🚀 Phase 3: Integration
+├─ DevOps practices
+├─ Security implementations
+└─ Automation frameworks
 ```
 
 ---
 
-**Kontakt & Links:**
-- 🔗 [GitHub](https://github.com/Querulantenkind)
-- 📧 Offen für Feedback & Code Review
-- 🎯 Immer bereit zu lernen!
+## 💬 Let's Connect
+
+- 🔗 **GitHub:** [Querulantenkind](https://github.com/Querulantenkind)
+- 💡 **Open to:** Feedback, code reviews, collaboration
+- 🎯 **Philosophy:** Always learning, always improving
 
 ---
 
-*Letztes Update: 2025-10-29 | Learning Progress: 🔄 Kontinuierlich*
+### Philosophy
+
+> *"The best code isn't the fastest—it's the **most readable** and **most secure**."*
+
+---
+
+<div align="center">
+
+**Last Updated:** November 2025 | **Status:** 🔄 Continuously Learning
+
+⭐ If you find something useful, feel free to explore!
+
+</div>
