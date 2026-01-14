@@ -28,6 +28,7 @@ I'm a **Linux ricer** who spends more time configuring than actually using the s
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
@@ -55,7 +56,18 @@ I'm a dedicated **Obsidian** user and follow the **Zettelkasten** method for per
 - **Networked thinking** - Knowledge grows through connections, not folders
 - **Future-proof** - Plain markdown means my notes outlive any app
 
-I also build my own Obsidian plugins and tools to optimize my workflow - because why stop at ricing the desktop when you can rice your second brain too?
+Recently, I've started developing my own **Obsidian plugins** - because why stop at ricing the desktop when you can rice your second brain too?
+
+---
+
+## Obsidian Plugin Development
+
+Building plugins for Obsidian is the natural extension of my ricing mindset: if a tool doesn't work exactly the way I want, I'll make it happen. With **TypeScript** and the Obsidian API, I create custom solutions for my personal knowledge management workflow.
+
+**What drives my plugin development:**
+- **Scratch my own itch** - Building tools that solve my specific workflow problems
+- **Learn by doing** - TypeScript and plugin architecture through practical projects
+- **Give back** - Sharing useful plugins with the Obsidian community
 
 ---
 
